@@ -1,8 +1,13 @@
 # BlockChain
 블록체인
 
+프로젝트 작업
+  https://www.notion.so/
 
-https://help.wadiz.kr/ko/articles/962598-%EC%99%80%EB%94%94%EC%A6%88-%ED%88%AC%EC%9E%90%ED%98%95-%ED%81%AC%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%8E%80%EB%94%A9-wadiz-public-offering-%EA%B3%BC-p2p-%EB%8C%80%EC%B6%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94
+
+참고
+
+   https://help.wadiz.kr/ko/articles/962598-%EC%99%80%EB%94%94%EC%A6%88-%ED%88%AC%EC%9E%90%ED%98%95-%ED%81%AC%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%8E%80%EB%94%A9-wadiz-public-offering-%EA%B3%BC-p2p-%EB%8C%80%EC%B6%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94
 
 이러한 크라우드펀딩의 종류는 4가지가 있습니다.
 
